@@ -1,0 +1,627 @@
+{
+    "648": {
+        "qc125_id": "1001f",
+        "official_name": "Abitibi-Est",
+        "qc125_label": "Abitibi-Est"
+    },
+    "642": {
+        "qc125_id": "1002f",
+        "official_name": "Abitibi-Ouest",
+        "qc125_label": "Abitibi-Ouest"
+    },
+    "338": {
+        "qc125_id": "1003f",
+        "official_name": "Acadie",
+        "qc125_label": "Acadie"
+    },
+    "366": {
+        "qc125_id": "1004f",
+        "official_name": "Anjou–Louis-Riel",
+        "qc125_label": "Anjou–Louis-Riel"
+    },
+    "520": {
+        "qc125_id": "1005f",
+        "official_name": "Argenteuil",
+        "qc125_label": "Argenteuil"
+    },
+    "144": {
+        "qc125_id": "1006f",
+        "official_name": "Arthabaska",
+        "qc125_label": "Arthabaska-L’Érable"
+    },
+    "806": {
+        "qc125_id": "1007f",
+        "official_name": "Beauce-Nord",
+        "qc125_label": "Beauce-Nord"
+    },
+    "802": {
+        "qc125_id": "1008f",
+        "official_name": "Beauce-Sud",
+        "qc125_label": "Beauce-Sud"
+    },
+    "218": {
+        "qc125_id": "1009f",
+        "official_name": "Beauharnois",
+        "qc125_label": "Beauharnois"
+    },
+    "822": {
+        "qc125_id": "1010f",
+        "official_name": "Bellechasse",
+        "qc125_label": "Bellechasse"
+    },
+    "566": {
+        "qc125_id": "1011f",
+        "official_name": "Berthier",
+        "qc125_label": "Berthier"
+    },
+    "588": {
+        "qc125_id": "1012f",
+        "official_name": "Bertrand",
+        "qc125_label": "Bertrand"
+    },
+    "536": {
+        "qc125_id": "1013f",
+        "official_name": "Blainville",
+        "qc125_label": "Blainville"
+    },
+    "850": {
+        "qc125_id": "1014f",
+        "official_name": "Bonaventure",
+        "qc125_label": "Bonaventure"
+    },
+    "258": {
+        "qc125_id": "1015f",
+        "official_name": "Borduas",
+        "qc125_label": "Borduas"
+    },
+    "360": {
+        "qc125_id": "1016f",
+        "official_name": "Bourassa-Sauvé",
+        "qc125_label": "Bourassa-Sauvé"
+    },
+    "370": {
+        "qc125_id": "1017f",
+        "official_name": "Camille-Laurin",
+        "qc125_label": "Camille-Laurin"
+    },
+    "204": {
+        "qc125_id": "1018f",
+        "official_name": "Brome-Missisquoi",
+        "qc125_label": "Brome-Missisquoi"
+    },
+    "238": {
+        "qc125_id": "1019f",
+        "official_name": "Chambly",
+        "qc125_label": "Chambly"
+    },
+    "676": {
+        "qc125_id": "1020f",
+        "official_name": "Champlain",
+        "qc125_label": "Champlain"
+    },
+    "620": {
+        "qc125_id": "1021f",
+        "official_name": "Chapleau",
+        "qc125_label": "Chapleau"
+    },
+    "748": {
+        "qc125_id": "1022f",
+        "official_name": "Charlesbourg",
+        "qc125_label": "Charlesbourg"
+    },
+    "760": {
+        "qc125_id": "1023f",
+        "official_name": "Charlevoix–Côte-de-Beaupré",
+        "qc125_label": "Charlevoix–Côte-de-Beaupré"
+    },
+    "226": {
+        "qc125_id": "1024f",
+        "official_name": "Châteauguay",
+        "qc125_label": "Châteauguay"
+    },
+    "754": {
+        "qc125_id": "1025f",
+        "official_name": "Chauveau",
+        "qc125_label": "Chauveau"
+    },
+    "918": {
+        "qc125_id": "1026f",
+        "official_name": "Chicoutimi",
+        "qc125_label": "Chicoutimi"
+    },
+    "460": {
+        "qc125_id": "1027f",
+        "official_name": "Chomedey",
+        "qc125_label": "Chomedey"
+    },
+    "814": {
+        "qc125_id": "1028f",
+        "official_name": "Chutes-de-la-Chaudière",
+        "qc125_label": "Chutes-de-la-Chaudière"
+    },
+    "826": {
+        "qc125_id": "1029f",
+        "official_name": "Côte-du-Sud",
+        "qc125_label": "Côte-du-Sud"
+    },
+    "320": {
+        "qc125_id": "1030f",
+        "official_name": "D'Arcy-McGee",
+        "qc125_label": "D’Arcy-McGee"
+    },
+    "508": {
+        "qc125_id": "1031f",
+        "official_name": "Deux-Montagnes",
+        "qc125_label": "Deux-Montagnes"
+    },
+    "138": {
+        "qc125_id": "1032f",
+        "official_name": "Drummond–Bois-Francs",
+        "qc125_label": "Drummond–Bois-Francs"
+    },
+    "914": {
+        "qc125_id": "1033f",
+        "official_name": "Dubuc",
+        "qc125_label": "Dubuc"
+    },
+    "902": {
+        "qc125_id": "1034f",
+        "official_name": "Duplessis",
+        "qc125_label": "Duplessis"
+    },
+    "466": {
+        "qc125_id": "1035f",
+        "official_name": "Fabre",
+        "qc125_label": "Fabre"
+    },
+    "854": {
+        "qc125_id": "1036f",
+        "official_name": "Gaspé",
+        "qc125_label": "Gaspé"
+    },
+    "614": {
+        "qc125_id": "1037f",
+        "official_name": "Gatineau",
+        "qc125_label": "Gatineau"
+    },
+    "346": {
+        "qc125_id": "1038f",
+        "official_name": "Gouin",
+        "qc125_label": "Gouin"
+    },
+    "206": {
+        "qc125_id": "1039f",
+        "official_name": "Granby",
+        "qc125_label": "Granby"
+    },
+    "502": {
+        "qc125_id": "1040f",
+        "official_name": "Groulx",
+        "qc125_label": "Groulx"
+    },
+    "352": {
+        "qc125_id": "1041f",
+        "official_name": "Hochelaga-Maisonneuve",
+        "qc125_label": "Hochelaga-Maisonneuve"
+    },
+    "602": {
+        "qc125_id": "1042f",
+        "official_name": "Hull",
+        "qc125_label": "Hull"
+    },
+    "216": {
+        "qc125_id": "1043f",
+        "official_name": "Huntingdon",
+        "qc125_label": "Huntingdon"
+    },
+    "210": {
+        "qc125_id": "1044f",
+        "official_name": "Iberville",
+        "qc125_label": "Iberville"
+    },
+    "858": {
+        "qc125_id": "1045f",
+        "official_name": "Îles-de-la-Madeleine",
+        "qc125_label": "Îles-de-la-Madeleine"
+    },
+    "310": {
+        "qc125_id": "1046f",
+        "official_name": "Jacques-Cartier",
+        "qc125_label": "Jacques-Cartier"
+    },
+    "736": {
+        "qc125_id": "1047f",
+        "official_name": "Jean-Lesage",
+        "qc125_label": "Jean-Lesage"
+    },
+    "702": {
+        "qc125_id": "1048f",
+        "official_name": "Jean-Talon",
+        "qc125_label": "Jean-Talon"
+    },
+    "364": {
+        "qc125_id": "1049f",
+        "official_name": "Jeanne-Mance–Viger",
+        "qc125_label": "Jeanne-Mance–Viger"
+    },
+    "126": {
+        "qc125_id": "1050f",
+        "official_name": "Johnson",
+        "qc125_label": "Johnson"
+    },
+    "570": {
+        "qc125_id": "1051f",
+        "official_name": "Joliette",
+        "qc125_label": "Joliette"
+    },
+    "922": {
+        "qc125_id": "1052f",
+        "official_name": "Jonquière",
+        "qc125_label": "Jonquière"
+    },
+    "554": {
+        "qc125_id": "1053f",
+        "official_name": "L'Assomption",
+        "qc125_label": "L’Assomption"
+    },
+    "720": {
+        "qc125_id": "1054f",
+        "official_name": "La Peltrie",
+        "qc125_label": "La Peltrie"
+    },
+    "236": {
+        "qc125_id": "1055f",
+        "official_name": "La Pinière",
+        "qc125_label": "La Pinière"
+    },
+    "232": {
+        "qc125_id": "1056f",
+        "official_name": "La Prairie",
+        "qc125_label": "La Prairie"
+    },
+    "594": {
+        "qc125_id": "1057f",
+        "official_name": "Labelle",
+        "qc125_label": "Labelle"
+    },
+    "926": {
+        "qc125_id": "1058f",
+        "official_name": "Lac-Saint-Jean",
+        "qc125_label": "Lac-Saint-Jean"
+    },
+    "390": {
+        "qc125_id": "1059f",
+        "official_name": "LaFontaine",
+        "qc125_label": "LaFontaine"
+    },
+    "244": {
+        "qc125_id": "1060f",
+        "official_name": "Laporte",
+        "qc125_label": "Laporte"
+    },
+    "344": {
+        "qc125_id": "1061f",
+        "official_name": "Laurier-Dorion",
+        "qc125_label": "Laurier-Dorion"
+    },
+    "454": {
+        "qc125_id": "1062f",
+        "official_name": "Laval-des-Rapides",
+        "qc125_label": "Laval-des-Rapides"
+    },
+    "670": {
+        "qc125_id": "1063f",
+        "official_name": "Laviolette–Saint-Maurice",
+        "qc125_label": "Laviolette-Saint-Maurice"
+    },
+    "530": {
+        "qc125_id": "1064f",
+        "official_name": "Les Plaines",
+        "qc125_label": "Les Plaines"
+    },
+    "818": {
+        "qc125_id": "1065f",
+        "official_name": "Lévis",
+        "qc125_label": "Lévis"
+    },
+    "810": {
+        "qc125_id": "1066f",
+        "official_name": "Lotbinière-Frontenac",
+        "qc125_label": "Lotbinière-Frontenac"
+    },
+    "708": {
+        "qc125_id": "1067f",
+        "official_name": "Louis-Hébert",
+        "qc125_label": "Louis-Hébert"
+    },
+    "304": {
+        "qc125_id": "1068f",
+        "official_name": "Marguerite-Bourgeoys",
+        "qc125_label": "Marguerite-Bourgeoys"
+    },
+    "246": {
+        "qc125_id": "1069f",
+        "official_name": "Marie-Victorin",
+        "qc125_label": "Marie-Victorin"
+    },
+    "306": {
+        "qc125_id": "1070f",
+        "official_name": "Marquette",
+        "qc125_label": "Marquette"
+    },
+    "666": {
+        "qc125_id": "1071f",
+        "official_name": "Maskinongé",
+        "qc125_label": "Maskinongé"
+    },
+    "548": {
+        "qc125_id": "1072f",
+        "official_name": "Masson",
+        "qc125_label": "Masson"
+    },
+    "842": {
+        "qc125_id": "1073f",
+        "official_name": "Matane-Matapédia",
+        "qc125_label": "Matane-Matapédia"
+    },
+    "340": {
+        "qc125_id": "1074f",
+        "official_name": "Maurice-Richard",
+        "qc125_label": "Maurice-Richard"
+    },
+    "104": {
+        "qc125_id": "1075f",
+        "official_name": "Mégantic",
+        "qc125_label": "Mégantic"
+    },
+    "350": {
+        "qc125_id": "1076f",
+        "official_name": "Mercier",
+        "qc125_label": "Mercier"
+    },
+    "482": {
+        "qc125_id": "1077f",
+        "official_name": "Mille-Îles",
+        "qc125_label": "Mille-Îles"
+    },
+    "514": {
+        "qc125_id": "1078f",
+        "official_name": "Mirabel",
+        "qc125_label": "Mirabel"
+    },
+    "336": {
+        "qc125_id": "1079f",
+        "official_name": "Mont-Royal–Outremont",
+        "qc125_label": "Mont-Royal -Outremont"
+    },
+    "252": {
+        "qc125_id": "1080f",
+        "official_name": "Montarville",
+        "qc125_label": "Montarville"
+    },
+    "742": {
+        "qc125_id": "1081f",
+        "official_name": "Montmorency",
+        "qc125_label": "Montmorency"
+    },
+    "312": {
+        "qc125_id": "1082f",
+        "official_name": "Nelligan",
+        "qc125_label": "Nelligan"
+    },
+    "150": {
+        "qc125_id": "1083f",
+        "official_name": "Nicolet-Bécancour",
+        "qc125_label": "Nicolet-Bécancour"
+    },
+    "324": {
+        "qc125_id": "1084f",
+        "official_name": "Notre-Dame-de-Grâce",
+        "qc125_label": "Notre-Dame-de-Grâce"
+    },
+    "120": {
+        "qc125_id": "1085f",
+        "official_name": "Orford",
+        "qc125_label": "Orford"
+    },
+    "626": {
+        "qc125_id": "1086f",
+        "official_name": "Papineau",
+        "qc125_label": "Papineau"
+    },
+    "380": {
+        "qc125_id": "1087f",
+        "official_name": "Pointe-aux-Trembles",
+        "qc125_label": "Pointe-aux-Trembles"
+    },
+    "608": {
+        "qc125_id": "1088f",
+        "official_name": "Pontiac",
+        "qc125_label": "Pontiac"
+    },
+    "714": {
+        "qc125_id": "1089f",
+        "official_name": "Portneuf",
+        "qc125_label": "Portneuf"
+    },
+    "582": {
+        "qc125_id": "1090f",
+        "official_name": "Prévost",
+        "qc125_label": "Prévost"
+    },
+    "906": {
+        "qc125_id": "1091f",
+        "official_name": "René-Lévesque",
+        "qc125_label": "René-Lévesque"
+    },
+    "560": {
+        "qc125_id": "1092f",
+        "official_name": "Repentigny",
+        "qc125_label": "Repentigny"
+    },
+    "264": {
+        "qc125_id": "1093f",
+        "official_name": "Richelieu",
+        "qc125_label": "Richelieu"
+    },
+    "132": {
+        "qc125_id": "1094f",
+        "official_name": "Richmond",
+        "qc125_label": "Richmond"
+    },
+    "838": {
+        "qc125_id": "1095f",
+        "official_name": "Rimouski",
+        "qc125_label": "Rimouski"
+    },
+    "834": {
+        "qc125_id": "1096f",
+        "official_name": "Rivière-du-Loup–Témiscouata",
+        "qc125_label": "Rivière-du-Loup–Témiscouata"
+    },
+    "316": {
+        "qc125_id": "1097f",
+        "official_name": "Robert-Baldwin",
+        "qc125_label": "Robert-Baldwin"
+    },
+    "930": {
+        "qc125_id": "1098f",
+        "official_name": "Roberval",
+        "qc125_label": "Roberval"
+    },
+    "356": {
+        "qc125_id": "1099f",
+        "official_name": "Rosemont",
+        "qc125_label": "Rosemont"
+    },
+    "576": {
+        "qc125_id": "1100f",
+        "official_name": "Rousseau",
+        "qc125_label": "Rousseau"
+    },
+    "636": {
+        "qc125_id": "1101f",
+        "official_name": "Rouyn-Noranda–Témiscamingue",
+        "qc125_label": "Rouyn-Noranda–Témiscamingue"
+    },
+    "110": {
+        "qc125_id": "1102f",
+        "official_name": "Saint-François",
+        "qc125_label": "Saint-François"
+    },
+    "326": {
+        "qc125_id": "1103f",
+        "official_name": "Saint-Henri–Sainte-Anne",
+        "qc125_label": "Saint-Henri–Sainte-Anne"
+    },
+    "260": {
+        "qc125_id": "1104f",
+        "official_name": "Saint-Hyacinthe",
+        "qc125_label": "Saint-Hyacinthe"
+    },
+    "212": {
+        "qc125_id": "1105f",
+        "official_name": "Saint-Jean",
+        "qc125_label": "Saint-Jean"
+    },
+    "526": {
+        "qc125_id": "1106f",
+        "official_name": "Saint-Jérôme",
+        "qc125_label": "Saint-Jérôme"
+    },
+    "318": {
+        "qc125_id": "1107f",
+        "official_name": "Saint-Laurent",
+        "qc125_label": "Saint-Laurent"
+    },
+    "330": {
+        "qc125_id": "1108f",
+        "official_name": "Sainte-Marie–Saint-Jacques",
+        "qc125_label": "Sainte-Marie–Saint-Jacques"
+    },
+    "470": {
+        "qc125_id": "1109f",
+        "official_name": "Sainte-Rose",
+        "qc125_label": "Sainte-Rose"
+    },
+    "230": {
+        "qc125_id": "1110f",
+        "official_name": "Sanguinet",
+        "qc125_label": "Sanguinet"
+    },
+    "116": {
+        "qc125_id": "1111f",
+        "official_name": "Sherbrooke",
+        "qc125_label": "Sherbrooke"
+    },
+    "220": {
+        "qc125_id": "1112f",
+        "official_name": "Soulanges",
+        "qc125_label": "Soulanges"
+    },
+    "250": {
+        "qc125_id": "1113f",
+        "official_name": "Taillon",
+        "qc125_label": "Taillon"
+    },
+    "730": {
+        "qc125_id": "1114f",
+        "official_name": "Taschereau",
+        "qc125_label": "Taschereau"
+    },
+    "542": {
+        "qc125_id": "1115f",
+        "official_name": "Terrebonne",
+        "qc125_label": "Terrebonne"
+    },
+    "660": {
+        "qc125_id": "1116f",
+        "official_name": "Trois-Rivières",
+        "qc125_label": "Trois-Rivières"
+    },
+    "938": {
+        "qc125_id": "1117f",
+        "official_name": "Ungava",
+        "qc125_label": "Ungava"
+    },
+    "240": {
+        "qc125_id": "1118f",
+        "official_name": "Vachon",
+        "qc125_label": "Vachon"
+    },
+    "726": {
+        "qc125_id": "1119f",
+        "official_name": "Vanier-Les Rivières",
+        "qc125_label": "Vanier-Les Rivières"
+    },
+    "224": {
+        "qc125_id": "1120f",
+        "official_name": "Vaudreuil",
+        "qc125_label": "Vaudreuil"
+    },
+    "256": {
+        "qc125_id": "1121f",
+        "official_name": "Verchères",
+        "qc125_label": "Verchères"
+    },
+    "300": {
+        "qc125_id": "1122f",
+        "official_name": "Verdun",
+        "qc125_label": "Verdun"
+    },
+    "358": {
+        "qc125_id": "1123f",
+        "official_name": "Viau",
+        "qc125_label": "Viau"
+    },
+    "476": {
+        "qc125_id": "1124f",
+        "official_name": "Vimont",
+        "qc125_label": "Vimont"
+    },
+    "332": {
+        "qc125_id": "1125f",
+        "official_name": "Westmount–Saint-Louis",
+        "qc125_label": "Westmount–Saint-Louis"
+    }
+}

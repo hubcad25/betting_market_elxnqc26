@@ -1,0 +1,377 @@
+{
+    "1004f": [
+        "Montréal est"
+    ],
+    "1016f": [
+        "Montréal est"
+    ],
+    "1017f": [
+        "Montréal est"
+    ],
+    "1038f": [
+        "Montréal est"
+    ],
+    "1041f": [
+        "Montréal est"
+    ],
+    "1049f": [
+        "Montréal est"
+    ],
+    "1059f": [
+        "Montréal est"
+    ],
+    "1061f": [
+        "Montréal est"
+    ],
+    "1074f": [
+        "Montréal est"
+    ],
+    "1076f": [
+        "Montréal est"
+    ],
+    "1087f": [
+        "Montréal est"
+    ],
+    "1099f": [
+        "Montréal est"
+    ],
+    "1108f": [
+        "Montréal est"
+    ],
+    "1123f": [
+        "Montréal est"
+    ],
+    "1003f": [
+        "Montréal ouest"
+    ],
+    "1030f": [
+        "Montréal ouest"
+    ],
+    "1046f": [
+        "Montréal ouest"
+    ],
+    "1068f": [
+        "Montréal ouest"
+    ],
+    "1070f": [
+        "Montréal ouest"
+    ],
+    "1079f": [
+        "Montréal ouest"
+    ],
+    "1082f": [
+        "Montréal ouest"
+    ],
+    "1084f": [
+        "Montréal ouest"
+    ],
+    "1097f": [
+        "Montréal ouest"
+    ],
+    "1103f": [
+        "Montréal ouest"
+    ],
+    "1107f": [
+        "Montréal ouest"
+    ],
+    "1122f": [
+        "Montréal ouest"
+    ],
+    "1125f": [
+        "Montréal ouest"
+    ],
+    "1027f": [
+        "Laval"
+    ],
+    "1035f": [
+        "Laval"
+    ],
+    "1062f": [
+        "Laval"
+    ],
+    "1077f": [
+        "Laval"
+    ],
+    "1109f": [
+        "Laval"
+    ],
+    "1124f": [
+        "Laval"
+    ],
+    "1013f": [
+        "Couronne nord"
+    ],
+    "1031f": [
+        "Couronne nord"
+    ],
+    "1040f": [
+        "Couronne nord"
+    ],
+    "1064f": [
+        "Couronne nord"
+    ],
+    "1078f": [
+        "Couronne nord"
+    ],
+    "1115f": [
+        "Couronne nord"
+    ],
+    "1005f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1011f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1012f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1051f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1053f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1057f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1072f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1090f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1092f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1100f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1106f": [
+        "Laurentides-Lanaudière"
+    ],
+    "1015f": [
+        "Montérégie est"
+    ],
+    "1019f": [
+        "Montérégie est"
+    ],
+    "1039f": [
+        "Montérégie est"
+    ],
+    "1044f": [
+        "Montérégie est"
+    ],
+    "1069f": [
+        "Montérégie est"
+    ],
+    "1080f": [
+        "Montérégie est"
+    ],
+    "1093f": [
+        "Montérégie est"
+    ],
+    "1104f": [
+        "Montérégie est"
+    ],
+    "1105f": [
+        "Montérégie est"
+    ],
+    "1113f": [
+        "Montérégie est"
+    ],
+    "1118f": [
+        "Montérégie est"
+    ],
+    "1121f": [
+        "Montérégie est"
+    ],
+    "1009f": [
+        "Montérégie ouest"
+    ],
+    "1024f": [
+        "Montérégie ouest"
+    ],
+    "1043f": [
+        "Montérégie ouest"
+    ],
+    "1055f": [
+        "Montérégie ouest"
+    ],
+    "1056f": [
+        "Montérégie ouest"
+    ],
+    "1060f": [
+        "Montérégie ouest"
+    ],
+    "1110f": [
+        "Montérégie ouest"
+    ],
+    "1112f": [
+        "Montérégie ouest"
+    ],
+    "1120f": [
+        "Montérégie ouest"
+    ],
+    "1022f": [
+        "Capitale-Nationale"
+    ],
+    "1023f": [
+        "Capitale-Nationale"
+    ],
+    "1025f": [
+        "Capitale-Nationale"
+    ],
+    "1047f": [
+        "Capitale-Nationale"
+    ],
+    "1048f": [
+        "Capitale-Nationale"
+    ],
+    "1054f": [
+        "Capitale-Nationale"
+    ],
+    "1067f": [
+        "Capitale-Nationale"
+    ],
+    "1081f": [
+        "Capitale-Nationale"
+    ],
+    "1089f": [
+        "Capitale-Nationale"
+    ],
+    "1114f": [
+        "Capitale-Nationale"
+    ],
+    "1119f": [
+        "Capitale-Nationale"
+    ],
+    "1007f": [
+        "Chaudière-Appalaches"
+    ],
+    "1008f": [
+        "Chaudière-Appalaches"
+    ],
+    "1010f": [
+        "Chaudière-Appalaches"
+    ],
+    "1028f": [
+        "Chaudière-Appalaches"
+    ],
+    "1029f": [
+        "Chaudière-Appalaches"
+    ],
+    "1065f": [
+        "Chaudière-Appalaches"
+    ],
+    "1066f": [
+        "Chaudière-Appalaches"
+    ],
+    "1021f": [
+        "Outaouais"
+    ],
+    "1037f": [
+        "Outaouais"
+    ],
+    "1042f": [
+        "Outaouais"
+    ],
+    "1086f": [
+        "Outaouais"
+    ],
+    "1088f": [
+        "Outaouais"
+    ],
+    "1006f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1020f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1032f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1050f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1063f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1071f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1083f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1116f": [
+        "Centre du Québec et Mauricie"
+    ],
+    "1018f": [
+        "Cantons de l'Est"
+    ],
+    "1075f": [
+        "Cantons de l'Est"
+    ],
+    "1085f": [
+        "Cantons de l'Est"
+    ],
+    "1094f": [
+        "Cantons de l'Est"
+    ],
+    "1102f": [
+        "Cantons de l'Est"
+    ],
+    "1111f": [
+        "Cantons de l'Est"
+    ],
+    "1014f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1036f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1045f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1073f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1095f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1096f": [
+        "Bas-Saint-Laurent–Gaspésie"
+    ],
+    "1026f": [
+        "Sag-Lac"
+    ],
+    "1033f": [
+        "Sag-Lac"
+    ],
+    "1052f": [
+        "Sag-Lac"
+    ],
+    "1058f": [
+        "Sag-Lac"
+    ],
+    "1098f": [
+        "Sag-Lac"
+    ],
+    "1001f": [
+        "Abitibi-Côte-Nord et Nord"
+    ],
+    "1002f": [
+        "Abitibi-Côte-Nord et Nord"
+    ],
+    "1034f": [
+        "Abitibi-Côte-Nord et Nord"
+    ],
+    "1091f": [
+        "Abitibi-Côte-Nord et Nord"
+    ],
+    "1101f": [
+        "Abitibi-Côte-Nord et Nord"
+    ],
+    "1117f": [
+        "Abitibi-Côte-Nord et Nord"
+    ]
+}
