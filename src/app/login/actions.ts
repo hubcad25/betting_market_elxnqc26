@@ -16,7 +16,8 @@ export async function login(formData: FormData) {
   })
 
   if (error) {
-    redirect('/login?error=Could not authenticate user')
+    console.error('Login error:', error.message)
+    redirect(`/login?error=${encodeURIComponent(error.message)}`)
   }
 
   revalidatePath('/', 'layout')
@@ -41,7 +42,8 @@ export async function signup(formData: FormData) {
   })
 
   if (error) {
-    redirect('/login?error=Could not authenticate user')
+    console.error('Signup error:', error.message)
+    redirect(`/login?error=${encodeURIComponent(error.message)}`)
   }
 
   revalidatePath('/', 'layout')
