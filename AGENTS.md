@@ -1,5 +1,9 @@
 # Agent Instructions
 
+## Security
+
+- **Secrets:** NEVER read `.env` files or any files containing potential secrets. Reading `.env.local.example` is permitted for configuration context.
+
 ## Issue Tracking
 
 This project uses **bd (beads)** for issue tracking.
